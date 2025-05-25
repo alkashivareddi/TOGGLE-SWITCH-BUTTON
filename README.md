@@ -1,5 +1,9 @@
 # TOGGLE-SWITCH-BUTTON
 TOGGLE-SWITCH-BUTTON is a simple and responsive toggle switch component built using HTML and CSS. This project demonstrates how to create visually appealing toggle switches that enhance user experience without relying on JavaScript.
+# Technologies Used
+
+- HTML5
+- CSS3
 
  # Project Structure
 ```
